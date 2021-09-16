@@ -5,6 +5,8 @@ Important:
 - Async Task
 - Glide 
 - TMDB API
+- Flutter
+- Dart
 
 
 Output - 

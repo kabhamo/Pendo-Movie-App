@@ -3,8 +3,8 @@ Important:
 ## Technologies and Components Used
 - Navigation Search
 - Async Task
-- Glide 
 - TMDB API
+- Android Studio
 - Flutter
 - Dart
 

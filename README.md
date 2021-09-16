@@ -4,6 +4,7 @@ Important:
 - Navigation Search
 - Async Task
 - TMDB API
+- POSTMAN API Platform
 - Android Studio
 - Flutter
 - Dart

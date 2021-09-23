@@ -13,7 +13,7 @@ Important:
 - It was my first time to work with Dart language and Flutter.
 - Flutter helped me to paint my app to life in milliseconds with Stateful Hot Reload,
 - Quickly ship features with a focus on native end-user experiences with expressive and flexible designs.
-- At the beginning I face some difficulties with the search buttom functionality, but like always, I make it work!.
+- At the beginning I face some difficulties with the search button functionality, but like always, I make it work!.
 - It was so exciting to learn these new technologies with Android Studio.
 
 ### Built with

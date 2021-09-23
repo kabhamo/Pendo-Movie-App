@@ -25,6 +25,5 @@ Important:
 - [POSTMAN](https://www.postman.com)
 
 ![](App_Images/HomeScreen.png)
-![](App_Images/DescriptionScreen)
 ![](App_Images/HomeScreen2.png)
 

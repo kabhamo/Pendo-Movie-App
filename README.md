@@ -8,6 +8,8 @@ Important:
 - Android Studio
 - Flutter
 - Dart
+- GoogleFonts
+- Hover Animation
 
 ## What I learned
 - It was my first time to work with Dart language and Flutter.
